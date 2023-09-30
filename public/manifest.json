@@ -1,0 +1,8 @@
+{
+  "name": "Test PWA",
+  "short_name": "Test_PWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A readable Hacker News app."
+}

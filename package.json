@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^4.4.9",
+    "vite-plugin-pwa": "^0.16.5",
+    "workbox-precaching": "^7.0.0",
+    "workbox-window": "^7.0.0"
+  }
+}
